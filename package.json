@@ -1,0 +1,16 @@
+{
+  "name": "lab_enumeration_callbacks_films_end",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  },
+  "dependencies": {},
+  "description": ""
+}
